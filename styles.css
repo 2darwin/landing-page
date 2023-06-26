@@ -54,10 +54,12 @@ a{
 
 button{
     background: #3882F6;
+    color: #F9F1F8;
 }
 
 .sign-up{
     background:#3882F6;
+    color: #F9F1F8;
 }
 
 .information{
@@ -83,4 +85,8 @@ h3{
     display: flex;
     justify-content: flex-end;
     font-weight: bold;
+}
+
+footer{
+    color: #F9F1F8;
 }
